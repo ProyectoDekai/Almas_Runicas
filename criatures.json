@@ -1,0 +1,2190 @@
+[
+  {
+    "bioma": "praderas",
+    "nombre": "Deer",
+    "tipo": "pasivos",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/d/d2/Deer_0S.png",
+      "1": "https://static.wikia.nocookie.net/valheim/images/6/60/Deer_1S.png",
+      "2": "https://static.wikia.nocookie.net/valheim/images/b/b1/Deer_2S.png"
+    },
+    "descripcion": "Shy creature that flees when it sees you.",
+    "drops": [
+      {
+        "item": "Deer Trophy",
+        "0_star": "50%",
+        "1_star": "50%",
+        "2_star": "50%"
+      },
+      {
+        "item": "Deer Meat",
+        "0_star": "2",
+        "1_star": "4",
+        "2_star": "8"
+      },
+      {
+        "item": "Deer Hide",
+        "0_star": "1-2",
+        "1_star": "2-4",
+        "2_star": "4-8"
+      }
+    ]
+  },
+  {
+    "bioma": "praderas",
+    "nombre": "Seagull",
+    "tipo": "pasivos",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/f/ff/Gull_Definitive.png"
+    },
+    "descripcion": "Bird that flies away when approached.",
+    "drops": [
+      {
+        "item": "Feathers",
+        "0_star": "1-3"
+      }
+    ],
+    "has_stars": false
+  },
+  {
+    "bioma": "praderas",
+    "nombre": "Perch",
+    "tipo": "peces",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/4/43/Perch.png",
+      "1": "",
+      "2": ""
+    },
+    "descripcion": "Common fish found in rivers and lakes.",
+    "crafting": [ 
+      { "item": "Fish Meat" },
+      { "item": "Fishing Hat" },
+      { "item": "Malt: Vananidir" }
+    ]
+  },
+  {
+    "bioma": "praderas",
+    "nombre": "Pike",
+    "tipo": "peces",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/3/31/Pike.png",
+      "1": "",
+      "2": ""
+    },
+    "descripcion": "Common fish found in rivers and lakes.",
+    "crafting": [ 
+      { "item": "Fish Meat" },
+      { "item": "Fishing Hat" }
+    ]
+  },
+  {
+    "bioma": "praderas",
+    "nombre": "Boar",
+    "tipo": "domesticables",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/6/6f/Boar.png",
+      "1": "https://static.wikia.nocookie.net/valheim/images/e/ec/Boar_1S.png",
+      "2": "https://static.wikia.nocookie.net/valheim/images/f/f2/Boar_2S.png"
+    },
+    "descripcion": "Tameable animal that provides resources.",
+    "drops": [
+      {
+        "item": "Boar Trophy",
+        "0_star": "15%",
+        "1_star": "15%",
+        "2_star": "15%"
+      },
+      {
+        "item": "Boar Meat",
+        "0_star": "1",
+        "1_star": "2",
+        "2_star": "4"
+      },
+      {
+        "item": "Leather Scraps",
+        "0_star": "1",
+        "1_star": "2",
+        "2_star": "4"
+      }
+    ]
+  },
+  {
+    "bioma": "praderas",
+    "nombre": "Neck",
+    "tipo": "hostiles",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/6/67/Neck_0star.png",
+      "1": "https://static.wikia.nocookie.net/valheim/images/b/b0/Neck_1star.png",
+      "2": "https://static.wikia.nocookie.net/valheim/images/9/92/Neck_2star.png"
+    },
+    "descripcion": "Aggressive amphibious creature found near water.",
+    "drops": [
+      {
+        "item": "Neck Tail",
+        "0_star": "70%",
+        "1_star": "2",
+        "2_star": "4"
+      },
+      {
+        "item": "Neck Trophy",
+        "0_star": "5%",
+        "1_star": "5%",
+        "2_star": "5%"
+      }
+    ]
+  },
+  {
+    "bioma": "praderas",
+    "nombre": "Greyling",
+    "tipo": "hostiles",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/4/4e/Greyling_0S.png",
+      "1": "https://static.wikia.nocookie.net/valheim/images/e/e5/Greydwarf_1S.png",
+      "2": "https://static.wikia.nocookie.net/valheim/images/5/50/Greyling_2S.png"
+    },
+    "descripcion": "Annoying small creature found in meadows.",
+    "drops": [
+      {
+        "item": "Resin",
+        "0_star": "1",
+        "1_star": "2",
+        "2_star": "4"
+      }
+    ]
+  },
+  {
+    "bioma": "praderas",
+    "nombre": "Draugr",
+    "tipo": "hostiles",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/1/13/Draugr_0S.png",
+      "1": "https://static.wikia.nocookie.net/valheim/images/2/23/Draugr_1S.png",
+      "2": "https://static.wikia.nocookie.net/valheim/images/2/29/Draugr_2S.png"
+    },
+    "descripcion": "Reanimated corpse armed with bow or sword.",
+    "drops": [
+      {
+        "item": "Entrails",
+        "0_star": "1",
+        "1_star": "2",
+        "2_star": "4"
+      },
+      {
+        "item": "Draugr Trophy",
+        "0_star": "10%",
+        "1_star": "10%",
+        "2_star": "10%"
+      }
+    ]
+  },
+  {
+    "bioma": "praderas",
+    "nombre": "Hildir",
+    "tipo": "npc",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/5/56/Hildir_Definitive.png",
+      "1": "",
+      "2": ""
+    },
+    "descripcion": "Clothing merchant who also provides quests."
+  },
+  {
+    "bioma": "praderas",
+    "nombre": "Eikthyr",
+    "tipo": "jefes",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/5/51/Eikthyr_Definitive.png",
+      "1": "",
+      "2": ""
+    },
+    "descripcion": "Giant deer, the first boss who controls lightning.",
+    "drops": [
+      {
+        "item": "Eikthyr Trophy",
+        "0_star": "1",
+        "1_star": "-",
+        "2_star": "-"
+      },
+      {
+        "item": "Hard Antler",
+        "0_star": "5",
+        "1_star": "-",
+        "2_star": "-"
+      }
+    ]
+  },
+  {
+    "bioma": "bosque_negro",
+    "nombre": "Deer",
+    "tipo": "pasivos",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/d/d2/Deer_0S.png",
+      "1": "https://static.wikia.nocookie.net/valheim/images/6/60/Deer_1S.png",
+      "2": "https://static.wikia.nocookie.net/valheim/images/b/b1/Deer_2S.png"
+    },
+    "descripcion": "Shy creature that flees when it sees you.",
+    "drops": [
+      {
+        "item": "Deer Trophy",
+        "0_star": "50%",
+        "1_star": "50%",
+        "2_star": "50%"
+      },
+      {
+        "item": "Deer Meat",
+        "0_star": "2",
+        "1_star": "4",
+        "2_star": "8"
+      },
+      {
+        "item": "Deer Hide",
+        "0_star": "1-2",
+        "1_star": "2-4",
+        "2_star": "4-8"
+      }
+    ]
+  },
+  {
+    "bioma": "bosque_negro",
+    "nombre": "Seagull",
+    "tipo": "pasivos",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/f/ff/Gull_Definitive.png",
+      "1": "",
+      "2": ""
+    },
+    "descripcion": "Bird that flies away when approached.",
+    "drops": [
+      {
+        "item": "Feather",
+        "0_star": "1-3",
+        "1_star": "-",
+        "2_star": "-"
+      }
+    ],
+    "has_stars": false
+  },
+  {
+    "bioma": "bosque_negro",
+    "nombre": "Crow",
+    "tipo": "pasivos",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/6/62/Crow_0S.png",
+      "1": "",
+      "2": ""
+    },
+    "descripcion": "Bird that flies away when approached.",
+    "drops": [
+      {
+        "item": "Feathers",
+        "0_star": "1-3"
+      }
+    ],
+    "has_stars": false
+  },
+  {
+    "bioma": "bosque_negro",
+    "nombre": "Perch",
+    "tipo": "peces",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/4/43/Perch.png",
+      "1": "",
+      "2": ""
+    },
+    "descripcion": "Common fish found in rivers and lakes.",
+    "crafting": [ 
+      { "item": "Fish Meat" },
+      { "item": "Fishing Hat" },
+      { "item": "Malt: Vananidir" }
+    ]
+  },
+  {
+    "bioma": "bosque_negro",
+    "nombre": "Pike",
+    "tipo": "peces",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/3/31/Pike.png",
+      "1": "",
+      "2": ""
+    },
+    "descripcion": "Common fish found in rivers and lakes.",
+    "crafting": [ 
+      { "item": "Fish Meat" },
+      { "item": "Fishing Hat" }
+    ]
+  },
+  {
+    "bioma": "bosque_negro",
+    "nombre": "Trollfish",
+    "tipo": "peces",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/4/46/Trollfish.png"
+    },
+    "descripcion": "Special biome fish.",
+    "crafting": [ 
+      { "item": "Fish Meat" },
+      { "item": "Fishing Hat" },
+      { "item": "Malt: Troll Strength" }
+    ]
+  },
+  {
+    "bioma": "bosque_negro",
+    "nombre": "Greydwarf",
+    "tipo": "hostiles",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/5/5b/Greydwarf_0S.png",
+      "1": "https://static.wikia.nocookie.net/valheim/images/e/e5/Greydwarf_1S.png",
+      "2": "https://static.wikia.nocookie.net/valheim/images/e/ef/Greydwarf_2S.png"
+    },
+    "descripcion": "Tree-like creatures that throw stones and attack with their limbs.",
+    "drops": [
+      {
+        "item": "Greydwarf Trophy",
+        "0_star": "5%",
+        "1_star": "5%",
+        "2_star": "5%"
+      },
+      {
+        "item": "Wood",
+        "0_star": "1",
+        "1_star": "2",
+        "2_star": "4"
+      },
+      {
+        "item": "Stone",
+        "0_star": "1",
+        "1_star": "2",
+        "2_star": "4"
+      },
+      {
+        "item": "Resin",
+        "0_star": "1",
+        "1_star": "2",
+        "2_star": "4"
+      },
+      {
+        "item": "Greydwarf Eye",
+        "0_star": "50%",
+        "1_star": "2",
+        "2_star": "4"
+      }
+    ]
+  },
+  {
+    "bioma": "bosque_negro",
+    "nombre": "Greydwarf Brute",
+    "tipo": "hostiles",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/8/8d/Greydwarf_Brute_0star.png",
+      "1": "https://static.wikia.nocookie.net/valheim/images/a/a0/Greydwarf_Brute_1star.png",
+      "2": "https://static.wikia.nocookie.net/valheim/images/3/32/Greydwarf_Brute_2star.png"
+    },
+    "descripcion": "Larger and stronger version of normal Greydwarf. Attacks with blunt strikes.",
+    "drops": [
+      {
+        "item": "Greydwarf Brute Trophy",
+        "0_star": "10%",
+        "1_star": "10%",
+        "2_star": "10%"
+      },
+      {
+        "item": "Dandelion",
+        "0_star": "1",
+        "1_star": "2",
+        "2_star": "4"
+      },
+      {
+        "item": "Wood",
+        "0_star": "3-4",
+        "1_star": "6-8",
+        "2_star": "12-16"
+      },
+      {
+        "item": "Stone",
+        "0_star": "2",
+        "1_star": "4",
+        "2_star": "8"
+      },
+      {
+        "item": "Greydwarf Eye",
+        "0_star": "2",
+        "1_star": "4",
+        "2_star": "8"
+      },
+      {
+        "item": "Ancient Seed",
+        "0_star": "33%",
+        "1_star": "2",
+        "2_star": "4"
+      }
+    ]
+  },
+  {
+    "bioma": "bosque_negro",
+    "nombre": "Greydwarf Shaman",
+    "tipo": "hostiles",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/8/87/Greydwarf_Shaman_0star.png",
+      "1": "https://static.wikia.nocookie.net/valheim/images/9/94/Greydwarf_Shaman_1star.png",
+      "2": "https://static.wikia.nocookie.net/valheim/images/e/e4/Greydwarf_Shaman_2star.png"
+    },
+    "descripcion": "Poisons enemies and can heal others. Prioritize in combat.",
+    "drops": [
+      {
+        "item": "Greydwarf Shaman Trophy",
+        "0_star": "10%",
+        "1_star": "10%",
+        "2_star": "10%"
+      },
+      {
+        "item": "Wood",
+        "0_star": "1",
+        "1_star": "2",
+        "2_star": "4"
+      },
+      {
+        "item": "Mushroom",
+        "0_star": "1",
+        "1_star": "2",
+        "2_star": "4"
+      },
+      {
+        "item": "Resin",
+        "0_star": "1",
+        "1_star": "2",
+        "2_star": "4"
+      },
+      {
+        "item": "Greydwarf Eye",
+        "0_star": "50%",
+        "1_star": "2",
+        "2_star": "4"
+      }
+    ]
+  },
+  {
+    "bioma": "bosque_negro",
+    "nombre": "Skeleton",
+    "tipo": "hostiles",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/f/fb/Skeleton_0S.png",
+      "1": "https://static.wikia.nocookie.net/valheim/images/a/a6/Skeleton_1S.png",
+      "2": "https://static.wikia.nocookie.net/valheim/images/8/8b/Skeleton_2S.png"
+    },
+    "descripcion": "Appears in tombs or at night. Uses various weapons.",
+    "drops": [
+      {
+        "item": "Skeleton Trophy",
+        "0_star": "10%",
+        "1_star": "10%",
+        "2_star": "10%"
+      },
+      {
+        "item": "Bone Fragments",
+        "0_star": "1",
+        "1_star": "2",
+        "2_star": "4"
+      }
+    ]
+  },
+  {
+    "bioma": "bosque_negro",
+    "nombre": "Rancid Remains",
+    "tipo": "hostiles",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/a/aa/Rancid_Remains_0star.png",
+      "1": "https://static.wikia.nocookie.net/valheim/images/a/a0/Rancid_Remains_1star.png",
+      "2": "https://static.wikia.nocookie.net/valheim/images/6/6e/Rancid_Remains_2star.png"
+    },
+    "descripcion": "May be found in burial chambers.",
+    "drops": [
+      {
+        "item": "Skeleton Trophy",
+        "0_star": "10%",
+        "1_star": "10%",
+        "2_star": "10%"
+      },
+      {
+        "item": "Bone Fragments",
+        "0_star": "3",
+        "1_star": "6",
+        "2_star": "12"
+      }
+    ]
+  },
+  {
+    "bioma": "bosque_negro",
+    "nombre": "Troll",
+    "tipo": "hostiles",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/8/8a/Troll_0S.png",
+      "1": "https://static.wikia.nocookie.net/valheim/images/f/f3/Troll_1S.png",
+      "2": "https://static.wikia.nocookie.net/valheim/images/0/03/Troll_2S.png"
+    },
+    "descripcion": "Blue giant that deals massive damage. Wields a club or uses bare hands.",
+    "drops": [
+      {
+        "item": "Troll Trophy",
+        "0_star": "50%",
+        "1_star": "50%",
+        "2_star": "50%"
+      },
+      {
+        "item": "Coins",
+        "0_star": "20-29",
+        "1_star": "40-58",
+        "2_star": "80-100"
+      },
+      {
+        "item": "Troll Hide",
+        "0_star": "5",
+        "1_star": "10",
+        "2_star": "20"
+      }
+    ]
+  },
+  {
+    "bioma": "bosque_negro",
+    "nombre": "Haldor",
+    "tipo": "npc",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/5/54/Haldor_Definitive.png",
+      "1": "",
+      "2": ""
+    },
+    "descripcion": "Dvergr merchant in the Black Forest."
+  },
+  {
+    "bioma": "bosque_negro",
+    "nombre": "Brenna",
+    "tipo": "minijefes",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/6/62/Brenna.png",
+      "1": "",
+      "2": ""
+    },
+    "descripcion": "Flaming skeleton with a fire sword, found in the Smoldering Tomb.",
+    "drops": [
+      {
+        "item": "Hildir's Brass Chest",
+        "0_star": "1",
+        "1_star": "-",
+        "2_star": "-"
+      },
+      {
+        "item": "Brenna Trophy",
+        "0_star": "100%",
+        "1_star": "-",
+        "2_star": "-"
+      }
+    ]
+  },
+  {
+    "bioma": "bosque_negro",
+    "nombre": "The Elder",
+    "tipo": "jefes",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/5/55/The_Elder.png",
+      "1": "",
+      "2": ""
+    },
+    "descripcion": "Ancient and gigantic tree boss of the Black Forest.",
+    "drops": [
+      {
+        "item": "The Elder Trophy",
+        "0_star": "100%",
+        "1_star": "-",
+        "2_star": "-"
+      },
+      {
+        "item": "Crypt Key",
+        "0_star": "1",
+        "1_star": "-",
+        "2_star": "-"
+      }
+    ]
+  },
+  {
+    "bioma": "oceano",
+    "nombre": "Pufferfish",
+    "tipo": "peces",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/b/ba/Pufferfish.png",
+      "1": "",
+      "2": ""
+    },
+    "descripcion": "Fish found in very deep areas.",
+    "crafting": [ 
+      { "item": "Fish Meat" },
+      { "item": "Fishing Hat" }
+    ]
+  },
+  {
+    "bioma": "oceano",
+    "nombre": "Tuna",
+    "tipo": "peces",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/c/c5/Tuna.png",
+      "1": "",
+      "2": ""
+    },
+    "descripcion": "Fish found in deep areas.",
+    "crafting": [ 
+      { "item": "Fish Meat" },
+      { "item": "Fishing Hat" }
+    ]
+  },
+  {
+    "bioma": "oceano",
+    "nombre": "Coral Cod",
+    "tipo": "peces",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/c/cc/Coral_cod.png",
+      "1": "",
+      "2": ""
+    },
+    "descripcion": "Fish found in deep areas.",
+    "crafting": [ 
+      { "item": "Fish Meat" },
+      { "item": "Fishing Hat" }
+    ]
+  },
+  {
+    "bioma": "oceano",
+    "nombre": "Leviathan",
+    "tipo": "pasivos",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/a/a6/Leviathan_Definitive.png",
+      "1": "",
+      "2": ""
+    },
+    "descripcion": "Giant island-like creature with chitin on its back. Submerges if you mine too much.",
+    "drops": [
+      {
+        "item": "Chitin",
+        "0_star": "15-25",
+        "1_star": "-",
+        "2_star": "-"
+      }
+    ],
+    "has_stars": false
+  },
+  {
+    "bioma": "oceano",
+    "nombre": "Serpent",
+    "tipo": "hostiles",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/2/21/Serpent_Definitive.png",
+      "1": "",
+      "2": ""
+    },
+    "descripcion": "Enormous sea creature that attacks ships and players. Appears during storms or at night.",
+    "drops": [
+      {
+        "item": "Serpent Trophy",
+        "0_star": "8-10",
+        "1_star": "-",
+        "2_star": "-"
+      },
+      {
+        "item": "Serpent Meat",
+        "0_star": "8-10",
+        "1_star": "-",
+        "2_star": "-"
+      },
+      {
+        "item": "Serpent Scale",
+        "0_star": "6-7",
+        "1_star": "-",
+        "2_star": "-"
+      }
+    ],
+    "has_stars": false
+  },
+  {
+    "bioma": "pantano",
+    "nombre": "Giant Herring",
+    "tipo": "peces",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/f/fa/Giant_herring.png",
+      "1": "",
+      "2": ""
+    },
+    "descripcion": "Special biome fish.",
+    "crafting": [ 
+      { "item": "Fish Meat" },
+      { "item": "Fishing Hat" }
+    ],
+    "has_stars": false
+  },
+  {
+    "bioma": "pantano",
+    "nombre": "Blob",
+    "tipo": "hostiles",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/9/9d/Blob.png",
+      "1": "",
+      "2": ""
+    },
+    "descripcion": "Large poisonous green slimes.",
+    "drops": [
+      {
+        "item": "Blob Trophy",
+        "0_star": "10%",
+        "1_star": "-",
+        "2_star": "-"
+      },
+      {
+        "item": "Ooze",
+        "0_star": "1",
+        "1_star": "-",
+        "2_star": "-"
+      }
+    ],
+    "has_stars": false
+  },
+  {
+    "bioma": "pantano",
+    "nombre": "Oozer",
+    "tipo": "hostiles",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/1/13/Oozer_0star.png",
+      "1": "",
+      "2": ""
+    },
+    "descripcion": "Poisonous gelatinous mass that splits into 2 blobs when killed.",
+    "drops": [
+      {
+        "item": "Ooze",
+        "0_star": "2",
+        "1_star": "-",
+        "2_star": "-"
+      },
+      {
+        "item": "Mud",
+        "0_star": "2",
+        "1_star": "-",
+        "2_star": "-"
+      },
+      {
+        "item": "Scrap",
+        "0_star": "33%",
+        "1_star": "-",
+        "2_star": "-"
+      }
+    ],
+    "has_stars": false
+  },
+  {
+    "bioma": "pantano",
+    "nombre": "Leech",
+    "tipo": "hostiles",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/a/aa/Leech_0star.png",
+      "1": "https://static.wikia.nocookie.net/valheim/images/0/07/Leech_1star.png",
+      "2": "https://static.wikia.nocookie.net/valheim/images/f/fe/Leech_2star.png"
+    },
+    "descripcion": "Large aquatic worms that apply poison when they bite.",
+    "drops": [
+      {
+        "item": "Leech Trophy",
+        "0_star": "10%",
+        "1_star": "10%",
+        "2_star": "10%"
+      },
+      {
+        "item": "Blood Bag",
+        "0_star": "1",
+        "1_star": "2",
+        "2_star": "4"
+      }
+    ]
+  },
+  {
+    "bioma": "pantano",
+    "nombre": "Skeleton",
+    "tipo": "hostiles",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/f/fb/Skeleton_0S.png",
+      "1": "https://static.wikia.nocookie.net/valheim/images/a/a6/Skeleton_1S.png",
+      "2": "https://static.wikia.nocookie.net/valheim/images/8/8b/Skeleton_2S.png"
+    },
+    "descripcion": "Appears in tombs or at night. Uses various weapons.",
+    "drops": [
+      {
+        "item": "Skeleton Trophy",
+        "0_star": "10%",
+        "1_star": "10%",
+        "2_star": "10%"
+      },
+      {
+        "item": "Bone Fragments",
+        "0_star": "1",
+        "1_star": "2",
+        "2_star": "4"
+      }
+    ]
+  },
+  {
+    "bioma": "pantano",
+    "nombre": "Draugr Elite",
+    "tipo": "hostiles",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/a/ac/Draugr_Elite_0S.png",
+      "1": "https://static.wikia.nocookie.net/valheim/images/0/01/Draugr_Elite_1S.png",
+      "2": "https://static.wikia.nocookie.net/valheim/images/d/db/Draugr_Elite_2S.png"
+    },
+    "descripcion": "Stronger than normal Draugr, always equipped with a sword.",
+    "drops": [
+      {
+        "item": "Draugr Elite Trophy",
+        "0_star": "10%",
+        "1_star": "10%",
+        "2_star": "10%"
+      },
+      {
+        "item": "Entrails",
+        "0_star": "2",
+        "1_star": "4",
+        "2_star": "8"
+      }
+    ]
+  },
+  {
+    "bioma": "pantano",
+    "nombre": "Surtling",
+    "tipo": "hostiles",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/7/70/Surtling.png",
+      "1": "https://static.wikia.nocookie.net/valheim/images/7/78/Surtling_1star.png",
+      "2": "https://static.wikia.nocookie.net/valheim/images/b/b0/Surtling_2star.png"
+    },
+    "descripcion": "Found in fire geysers and dies instantly in contact with water.",
+    "drops": [
+      {
+        "item": "Surtling Trophy",
+        "0_star": "5%",
+        "1_star": "5%",
+        "2_star": "5%"
+      },
+      {
+        "item": "Coal",
+        "0_star": "4",
+        "1_star": "8",
+        "2_star": "16"
+      },
+      {
+        "item": "Surtling Core",
+        "0_star": "50%",
+        "1_star": "2",
+        "2_star": "4"
+      }
+    ]
+  },
+  {
+    "bioma": "pantano",
+    "nombre": "Wraith",
+    "tipo": "hostiles",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/3/3b/Wraith_0star.png",
+      "1": "",
+      "2": ""
+    },
+    "descripcion": "Spectral entity that appears floating at night.",
+    "drops": [
+      {
+        "item": "Wraith Trophy",
+        "0_star": "5%",
+        "1_star": "-",
+        "2_star": "-"
+      },
+      {
+        "item": "Chains",
+        "0_star": "1",
+        "1_star": "-",
+        "2_star": "-"
+      }
+    ],
+    "has_stars":false
+  },
+  {
+    "bioma": "pantano",
+    "nombre": "Abomination",
+    "tipo": "hostiles",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/7/72/Abomination.png",
+      "1": "",
+      "2": ""
+    },
+    "descripcion": "Large tree-like entities composed of multiple branches.",
+    "drops": [
+      {
+        "item": "Abomination Trophy",
+        "0_star": "50%",
+        "1_star": "-",
+        "2_star": "-"
+      },
+      {
+        "item": "Ooze",
+        "0_star": "3-4",
+        "1_star": "-",
+        "2_star": "-"
+      },
+      {
+        "item": "Root",
+        "0_star": "5",
+        "1_star": "-",
+        "2_star": "-"
+      }
+    ],
+    "has_stars": false
+  },
+  {
+    "bioma": "pantano",
+    "nombre": "The Bog Witch",
+    "tipo": "npc",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/8/86/The_Bog_Witch.png",
+      "1": "",
+      "2": ""
+    },
+    "descripcion": "Potion and ingredient merchant."
+  },
+  {
+    "bioma": "pantano",
+    "nombre": "Bonemass",
+    "tipo": "jefes",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/a/a8/Bonemass_Definitive.png",
+      "1": "",
+      "2": ""
+    },
+    "descripcion": "Humanoid mass composed of toxic waste and bone remains.",
+    "drops":[
+      {
+        "item": "Bonemass Trophy",
+        "0_star": "1",
+        "1_star": "-",
+        "2_star": "-"
+      },
+      {
+        "item": "Wishbone",
+        "0_star": "1",
+        "1_star": "-",
+        "2_star": "-"
+      }
+    ]
+  },
+  {
+    "bioma": "montañas",
+    "nombre": "Tetra",
+    "tipo": "peces",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/1/13/Tetra.png",
+      "1": "",
+      "2": ""
+    },
+    "descripcion": "Special biome fish.",
+    "crafting": [ 
+      { "item": "Fish Meat" },
+      { "item": "Fishing Hat" }
+    ],
+    "has_stars": false
+  },
+  {
+    "bioma": "montañas",
+    "nombre": "Wolf",
+    "tipo": "domesticables",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/e/e8/Wolf_0star.png",
+      "1": "https://static.wikia.nocookie.net/valheim/images/d/dd/Wolf_1star.png",
+      "2": "https://static.wikia.nocookie.net/valheim/images/2/25/Wolf_2star.png"
+    },
+    "descripcion": "Large tameable canine.",
+    "drops": [
+      {
+        "item": "Wolf Trophy",
+        "0_star": "10%",
+        "1_star": "10%",
+        "2_star": "10%"
+      },
+      {
+        "item": "Wolf Fang",
+        "0_star": "40%",
+        "1_star": "2(80%)",
+        "2_star": "4"
+      },
+      {
+        "item": "Wolf Meat",
+        "0_star": "1",
+        "1_star": "2",
+        "2_star": "4"
+      },
+      {
+        "item": "Wolf Pelt",
+        "0_star": "1",
+        "1_star": "2",
+        "2_star": "4"
+      }
+    ]
+  },
+  {
+    "bioma": "montañas",
+    "nombre": "Drake",
+    "tipo": "hostiles",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/8/8e/Drake_Definitive.png",
+      "1": "",
+      "2": ""
+    },
+    "descripcion": "Blue dragons that shoot ice projectiles.",
+    "drops": [
+      {
+        "item": "Drake Trophy",
+        "0_star": "5%",
+        "1_star": "-",
+        "2_star": "-"
+      },
+      {
+        "item": "Freeze Gland",
+        "0_star": "1",
+        "1_star": "-",
+        "2_star": "-"
+      }
+    ],
+    "has_stars":false
+  },
+  {
+    "bioma": "montañas",
+    "nombre": "Stone Golem",
+    "tipo": "hostiles",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/d/d2/Stone_Golem_Definitive.png",
+      "1": "",
+      "2": ""
+    },
+    "descripcion": "Giant stone humanoid covered in snow.",
+    "drops": [
+      {
+        "item": "Stone Golem Trophy",
+        "0_star": "5%",
+        "1_star": "-",
+        "2_star": "-"
+      },
+      {
+        "item": "Crystal",
+        "0_star": "8-11",
+        "1_star": "-",
+        "2_star": "-"
+      },
+      {
+        "item": "Stone",
+        "0_star": "5-9",
+        "1_star": "-",
+        "2_star": "-"
+      }
+    ],
+    "has_stars": false
+  },
+  {
+    "bioma": "montañas",
+    "nombre": "Fenring",
+    "tipo": "hostiles",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/c/c3/Fenring_0S.png",
+      "1": "",
+      "2": ""
+    },
+    "descripcion": "Wolves that walk on hind legs, appear only at night.",
+    "drops": [
+      {
+        "item": "Fenring Trophy",
+        "0_star": "10%",
+        "1_star": "-",
+        "2_star": "-"
+      },
+      {
+        "item": "Wolf Fang",
+        "0_star": "1",
+        "1_star": "-",
+        "2_star": "-"
+      }
+    ],
+    "has_stars": false
+  },
+  {
+    "bioma": "montañas",
+    "nombre": "Cultist",
+    "tipo": "hostiles",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/b/bd/Cultist.png",
+      "1": "",
+      "2": ""
+    },
+    "descripcion": "Found inside Frost Caves.",
+    "drops": [
+      {
+        "item": "Cultist Trophy",
+        "0_star": "10%",
+        "1_star": "-",
+        "2_star": "-"
+      },
+      {
+        "item": "Red Jute",
+        "0_star": "1-2",
+        "1_star": "-",
+        "2_star": "-"
+      }
+    ],
+    "has_stars":false
+  },
+  {
+    "bioma": "montañas",
+    "nombre": "Ulv",
+    "tipo": "hostiles",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/c/c2/Ulv.png",
+      "1": "",
+      "2": ""
+    },
+    "descripcion": "Found inside Frost Caves.",
+    "drops": [
+      {
+        "item": "Ulv Trophy",
+        "0_star": "10%",
+        "1_star": "-",
+        "2_star": "-"
+      },
+      {
+        "item": "Wolf Fang",
+        "0_star": "50%",
+        "1_star": "-",
+        "2_star": "-"
+      }
+    ],
+    "has_stars":false
+  },
+  {
+    "bioma": "montañas",
+    "nombre": "Bat",
+    "tipo": "hostiles",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/a/ad/Bat.png",
+      "1": "",
+      "2": ""
+    },
+    "descripcion": "Flying creatures found in caves.",
+    "drops": [
+      {
+        "item": "Leather Scraps",
+        "0_star": "50%",
+        "1_star": "-",
+        "2_star": "-"
+      }
+    ],
+    "has_stars":false
+  },
+  {
+    "bioma": "montañas",
+    "nombre": "Geirrhafa",
+    "tipo": "minijefes",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/f/f2/Geirrhafa.png",
+      "1": "-",
+      "2": "-"
+    },
+    "descripcion": "Wolf that walks on hind legs, attacks with ice.",
+    "drops": [
+      {
+        "item": "Hildir's Silver Chest",
+        "0_star": "1",
+        "1_star": "-",
+        "2_star": "-"
+      },
+      {
+        "item": "Geirrhafa Trophy",
+        "0_star": "1",
+        "1_star": "-",
+        "2_star": "-"
+      }
+    ]
+  },
+  {
+    "bioma": "montañas",
+    "nombre": "Moder",
+    "tipo": "jefes",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/1/1e/Moder.png",
+      "1": "-",
+      "2": "-"
+    },
+    "descripcion": "Enormous ice dragon with black scales, mother of all Drakes.",
+    "drops": [
+      {
+        "item": "Moder Trophy",
+        "0_star": "1",
+        "1_star": "-",
+        "2_star": "-"
+      },
+      {
+        "item": "Dragon Tear",
+        "0_star": "10",
+        "1_star": "-",
+        "2_star": "-"
+      }
+    ]
+  },
+  {
+    "bioma": "llanuras",
+    "nombre": "Seagull",
+    "tipo": "pasivos",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/f/ff/Gull_Definitive.png"
+    },
+    "descripcion": "Bird that flies away when approached.",
+    "drops": [
+      {
+        "item": "Feathers",
+        "0_star": "1-3"
+      }
+    ],
+    "has_stars": false
+  },
+  {
+    "bioma": "llanuras",
+    "nombre": "Grouper",
+    "tipo": "peces",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/c/c4/Grouper.png"
+    },
+    "descripcion": "Special biome fish.",
+    "crafting": [ 
+      { "item": "Fish Meat" },
+      { "item": "Fishing Hat" },
+      { "item": "Malt: Anti-Sting Brew" }
+    ]
+  },
+  {
+    "bioma": "llanuras",
+    "nombre": "Lox",
+    "tipo": "domesticables",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/7/7c/Lox.png"
+    },
+    "descripcion": "Large tameable and rideable creature.",
+    "drops": [
+      {
+        "item": "Lox Trophy",
+        "0_star": "10%",
+        "1_star": "-",
+        "2_star": "-"
+      },
+      {
+        "item": "Lox Meat",
+        "0_star": "4-5",
+        "1_star": "-",
+        "2_star": "-"
+      },
+      {
+        "item": "Lox Pelt",
+        "0_star": "5-9",
+        "1_star": "-",
+        "2_star": "-"
+      }
+    ],
+    "has_stars":false
+  },
+  {
+    "bioma": "llanuras",
+    "nombre": "Fuling",
+    "tipo": "hostiles",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/4/42/Fuling_0star.png",
+      "1": "https://static.wikia.nocookie.net/valheim/images/2/2b/Fuling_1star.png",
+      "2": "https://static.wikia.nocookie.net/valheim/images/1/15/Fuling_2star.png"
+    },
+    "descripcion": "Medium-sized creatures that travel in groups with various weapons.",
+    "drops": [
+      {
+        "item": "Fuling Trophy",
+        "0_star": "10%",
+        "1_star": "10%",
+        "2_star": "10%"
+      },
+      {
+        "item": "Black Metal",
+        "0_star": "1",
+        "1_star": "2",
+        "2_star": "4"
+      },
+      {
+        "item": "Coins",
+        "0_star": "5-9",
+        "1_star": "10-18",
+        "2_star": "20-36"
+      }
+    ]
+  },
+  {
+    "bioma": "llanuras",
+    "nombre": "Fuling Berserker",
+    "tipo": "hostiles",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/7/7b/Fuling_Berserker_0star.png",
+      "1": "https://static.wikia.nocookie.net/valheim/images/b/ba/Fuling_Berserker_1star.png",
+      "2": "https://static.wikia.nocookie.net/valheim/images/8/87/Fuling_Berserker_2star.png"
+    },
+    "descripcion": "Large goblin strong enough to kill with a single club strike.",
+    "drops": [
+      {
+        "item": "Fuling Berserker Trophy",
+        "0_star": "5%",
+        "1_star": "5%",
+        "2_star": "5%"
+      },
+      {
+        "item": "Black Metal",
+        "0_star": "3-4",
+        "1_star": "6-8",
+        "2_star": "12-16"
+      },
+      {
+        "item": "Coins",
+        "0_star": "5-19",
+        "1_star": "10-38",
+        "2_star": "20-76"
+      },
+      {
+        "item": "Fuling Totem",
+        "0_star": "10%",
+        "1_star": "10%",
+        "2_star": "10%"
+      }
+    ]
+  },
+  {
+    "bioma": "llanuras",
+    "nombre": "Fuling Shaman",
+    "tipo": "hostiles",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/5/55/Fuling_Shaman_Definitive.png"
+    },
+    "descripcion": "Goblin mage that throws fireballs and shields allies with its staff.",
+    "drops": [
+      {
+        "item": "Fuling Shaman Trophy",
+        "0_star": "10%",
+        "1_star": "-",
+        "2_star": "-"
+      },
+      {
+        "item": "Black Metal",
+        "0_star": "1",
+        "1_star": "-",
+        "2_star": "-"
+      },
+      {
+        "item": "Coins",
+        "0_star": "20-39",
+        "1_star": "-",
+        "2_star": "-"
+      },
+      {
+        "item": "Mushroom",
+        "0_star": "1",
+        "1_star": "-",
+        "2_star": "-"
+      }
+    ],
+    "has_stars":false
+  },
+  {
+    "bioma": "llanuras",
+    "nombre": "Deathsquito",
+    "tipo": "hostiles",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/9/99/Deathsquito_Definitive.png"
+    },
+    "descripcion": "Large mosquito that can kill with one hit if you're not careful.",
+    "drops": [
+      {
+        "item": "Deathsquito Trophy",
+        "0_star": "5%",
+        "1_star": "-",
+        "2_star": "-"
+      },
+      {
+        "item": "Needle",
+        "0_star": "1",
+        "1_star": "-",
+        "2_star": "-"
+      }
+    ],
+    "has_stars":false
+  },
+  {
+    "bioma": "llanuras",
+    "nombre": "Growth",
+    "tipo": "hostiles",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/b/bb/Growth_0star.png"
+    },
+    "descripcion": "Black mass found in tar pits that attacks from range.",
+    "drops": [
+      {
+        "item": "Growth Trophy",
+        "0_star": "10%",
+        "1_star": "-",
+        "2_star": "-"
+      },
+      {
+        "item": "Tar",
+        "0_star": "1",
+        "1_star": "-",
+        "2_star": "-"
+      }
+    ],
+    "has_stars":false
+  },
+  {
+    "bioma": "llanuras",
+    "nombre": "Zil & Thungr",
+    "tipo": "minijefes",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/f/f7/Zil_%26_Thungr.png"
+    },
+    "descripcion": "Brother duo that attacks with magic and melee combos.",
+    "drops": [
+      {
+        "item": "Thungr Trophy",
+        "0_star": "1",
+        "1_star": "-",
+        "2_star": "-"
+      },
+      {
+        "item": "Zil Trophy",
+        "0_star": "1",
+        "1_star": "-",
+        "2_star": "-"
+      },
+      {
+        "item": "Hildir's Bronze Chest",
+        "0_star": "1",
+        "1_star": "-",
+        "2_star": "-"
+      }
+    ]
+  },
+  {
+    "bioma": "llanuras",
+    "nombre": "Yagluth",
+    "tipo": "jefes",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/1/13/Yagluth_Definitive.png"
+    },
+    "descripcion": "King of goblins who destroys everything with fire powers.",
+    "drops": [
+      {
+        "item": "Yagluth Trophy",
+        "0_star": "1",
+        "1_star": "-",
+        "2_star": "-"
+      },
+      {
+        "item": "Torn Spirit",
+        "0_star": "3",
+        "1_star": "-",
+        "2_star": "-"
+      }
+    ]
+  },
+  {
+    "bioma": "tierras_nubladas",
+    "nombre": "Hare",
+    "tipo": "pasivos",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/4/47/Hare.png",
+      "1": "https://static.wikia.nocookie.net/valheim/images/a/a1/Hare_1star.png",
+      "2": "https://static.wikia.nocookie.net/valheim/images/1/1d/Hare_2star.png"
+    },
+    "descripcion": "Hare with scaly skin.",
+    "drops": [
+      {
+        "item": "Hare Trophy",
+        "0_star": "5%",
+        "1_star": "5%",
+        "2_star": "5%"
+      },
+      {
+        "item": "Scaly Hide",
+        "0_star": "1-2",
+        "1_star": "2-4",
+        "2_star": "4-8"
+      },
+      {
+        "item": "Hare Meat",
+        "0_star": "1-2",
+        "1_star": "2-4",
+        "2_star": "4-8"
+      }
+    ]
+  },
+  {
+    "bioma": "tierras_nubladas",
+    "nombre": "Anglerfish",
+    "tipo": "peces",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/6/64/Anglerfish.png"
+    },
+    "descripcion": "Special biome fish.",
+    "crafting": [ 
+      { "item": "Fish Meat" },
+      { "item": "Fishing Hat" },
+      { "item": "Uncooked Fish Bread" }
+    ]
+  },
+  {
+    "bioma": "tierras_nubladas",
+    "nombre": "Gjall",
+    "tipo": "hostiles",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/7/73/Gjall.png",
+      "1": "https://static.wikia.nocookie.net/valheim/images/7/77/Gjall_1star.png",
+      "2": "https://static.wikia.nocookie.net/valheim/images/4/40/Gjall_2star.png"
+    },
+    "descripcion": "Creature that flies over the Mistlands.",
+    "drops": [
+      {
+        "item": "Gjall Trophy",
+        "0_star": "30%",
+        "1_star": "30%",
+        "2_star": "30%"
+      },
+      {
+        "item": "Bile Bag",
+        "0_star": "1",
+        "1_star": "1",
+        "2_star": "1"
+      }
+    ]
+  },
+  {
+    "bioma": "tierras_nubladas",
+    "nombre": "Tick",
+    "tipo": "hostiles",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/2/29/Tick.png",
+      "1": "https://static.wikia.nocookie.net/valheim/images/2/2f/Tick_1star.png",
+      "2": "https://static.wikia.nocookie.net/valheim/images/d/d8/Tick_2star.png"
+    },
+    "descripcion": "Dropped by Gjall and found near Jotun Heads.",
+    "drops": [
+      {
+        "item": "Tick Trophy",
+        "0_star": "5%",
+        "1_star": "5%",
+        "2_star": "5%"
+      },
+      {
+        "item": "Blood Clot",
+        "0_star": "1",
+        "1_star": "1",
+        "2_star": "1"
+      }
+    ]
+  },
+  {
+    "bioma": "tierras_nubladas",
+    "nombre": "Seeker",
+    "tipo": "hostiles",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/5/54/Seeker.png",
+      "1": "https://static.wikia.nocookie.net/valheim/images/9/97/Seeker_1star.png",
+      "2": "https://static.wikia.nocookie.net/valheim/images/a/a5/Seeker_2star.png"
+    },
+    "descripcion": "Large insects that fly toward you and attack with front legs.",
+    "drops": [
+      {
+        "item": "Seeker Trophy",
+        "0_star": "10%",
+        "1_star": "10%",
+        "2_star": "10%"
+      },
+      {
+        "item": "Seeker Meat",
+        "0_star": "1",
+        "1_star": "2",
+        "2_star": "4"
+      },
+      {
+        "item": "Carapace",
+        "0_star": "1",
+        "1_star": "2",
+        "2_star": "4"
+      }
+    ]
+  },
+  {
+    "bioma": "tierras_nubladas",
+    "nombre": "Seeker Soldier",
+    "tipo": "hostiles",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/9/9e/Seeker_soldier.png",
+      "1": "https://static.wikia.nocookie.net/valheim/images/9/92/Seeker_soldier_1star.png",
+      "2": "https://static.wikia.nocookie.net/valheim/images/8/8a/Seeker_soldier_2star.png"
+    },
+    "descripcion": "Bulkier version of Seeker that attacks with legs and headbutts.",
+    "drops": [
+      {
+        "item": "Seeker Soldier Trophy",
+        "0_star": "5%",
+        "1_star": "5%",
+        "2_star": "5%"
+      },
+      {
+        "item": "Seeker Soldier Meat",
+        "0_star": "1",
+        "1_star": "2",
+        "2_star": "4"
+      },
+      {
+        "item": "Carapace",
+        "0_star": "2-3",
+        "1_star": "4-6",
+        "2_star": "8-12"
+      },
+      {
+        "item": "Mandible",
+        "0_star": "1",
+        "1_star": "1",
+        "2_star": "1"
+      }
+    ]
+  },
+  {
+    "bioma": "tierras_nubladas",
+    "nombre": "Dvergr Rogue",
+    "tipo": "neutral",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/9/9d/Dvergr_rogue.png",
+      "1": "https://static.wikia.nocookie.net/valheim/images/f/fe/Dvergr1star.png",
+      "2": "https://static.wikia.nocookie.net/valheim/images/3/39/Dvergr2star.png"
+    },
+    "descripcion": "Friendly dwarf unless provoked.",
+    "drops": [
+      {
+        "item": "Dvergr Trophy",
+        "0_star": "5%",
+        "1_star": "5%",
+        "2_star": "5%"
+      },
+      {
+        "item": "Coins",
+        "0_star": "2-14",
+        "1_star": "2-14",
+        "2_star": "2-14"
+      },
+      {
+        "item": "Soft Tissue",
+        "0_star": "1-2",
+        "1_star": "1-2",
+        "2_star": "1-2"
+      },
+      {
+        "item": "Black Marble",
+        "0_star": "1-2",
+        "1_star": "1-2",
+        "2_star": "1-2"
+      }
+    ]
+  },
+  {
+    "bioma": "tierras_nubladas",
+    "nombre": "Dvergr Mage",
+    "tipo": "neutral",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/7/7b/Dvergr_mage.png",
+      "1": "https://static.wikia.nocookie.net/valheim/images/4/4b/Dvergr_mage_1.png",
+      "2": "https://static.wikia.nocookie.net/valheim/images/8/83/Dvergr_mage_2.png"
+    },
+    "descripcion": "Friendly dwarf unless provoked, comes in three variants: fire, ice and support.",
+    "drops": [
+      {
+        "item": "Dvergr Trophy",
+        "0_star": "5%",
+        "1_star": "5%",
+        "2_star": "5%"
+      },
+      {
+        "item": "Coins",
+        "0_star": "2-14",
+        "1_star": "2-14",
+        "2_star": "2-14"
+      },
+      {
+        "item": "Soft Tissue",
+        "0_star": "1-2",
+        "1_star": "1-2",
+        "2_star": "1-2"
+      },
+      {
+        "item": "Black Marble",
+        "0_star": "1-2",
+        "1_star": "1-2",
+        "2_star": "1-2"
+      }
+    ]
+  },
+  {
+    "bioma": "tierras_nubladas",
+    "nombre": "The Queen",
+    "tipo": "jefes",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/f/fb/The_Queen.png"
+    },
+    "descripcion": "Matriarch of Seekers, waiting in her chambers.",
+    "drops": [
+      {
+        "item": "The Queen Trophy",
+        "0_star": "1",
+        "1_star": "-",
+        "2_star": "-"
+      },
+      {
+        "item": "Majestic Carapace",
+        "0_star": "1",
+        "1_star": "-",
+        "2_star": "-"
+      }
+    ]
+  },
+  {
+    "bioma": "tierras_de_ceniza",
+    "nombre": "Ash Crow",
+    "tipo": "pasivos",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/b/b3/Ashcrow.png"
+    },
+    "descripcion": "Special biome bird.",
+    "drops": [
+      {
+        "item": "Feathers",
+        "0_star": "3",
+        "1_star": "-",
+        "2_star": "-"
+      }
+    ],
+    "has_stars":false
+  },
+  {
+    "bioma": "tierras_de_ceniza",
+    "nombre": "Magmafish",
+    "tipo": "peces",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/8/81/Magmafish.png"
+    },
+    "descripcion": "Special biome fish.",
+    "crafting": [ 
+      { "item": "Fish Meat" },
+      { "item": "Fishing Hat" }
+    ]
+  },
+  {
+    "bioma": "tierras_de_ceniza",
+    "nombre": "Asksvin",
+    "tipo": "domesticables",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/c/c1/Asksvin.png",
+      "1": "https://static.wikia.nocookie.net/valheim/images/e/e1/Asksvin_1_star.png",
+      "2": "https://static.wikia.nocookie.net/valheim/images/6/67/Asksvin_2_star.png"
+    },
+    "descripcion": "Resembles a mutated Neck, can run in lava and be ridden.",
+    "drops": [
+      {
+        "item": "Asksvin Trophy",
+        "0_star": "10%",
+        "1_star": "10%",
+        "2_star": "10%"
+      },
+      {
+        "item": "Asksvin Bladder",
+        "0_star": "1",
+        "1_star": "2",
+        "2_star": "4"
+      },
+      {
+        "item": "Asksvin Hide",
+        "0_star": "2",
+        "1_star": "4",
+        "2_star": "8"
+      },
+      {
+        "item": "Asksvin Tail",
+        "0_star": "2",
+        "1_star": "4",
+        "2_star": "8"
+      }
+    ]
+  },
+  {
+    "bioma": "tierras_de_ceniza",
+    "nombre": "Charred Warrior",
+    "tipo": "hostiles",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/8/8f/Charred_Warrior.png",
+      "1": "https://static.wikia.nocookie.net/valheim/images/d/d8/Charred_Warrior_1_star.png",
+      "2": "https://static.wikia.nocookie.net/valheim/images/b/b7/Charred_Warrior_2_star.png"
+    },
+    "descripcion": "Ancient warrior still wandering despite being charred.",
+    "drops": [
+      {
+        "item": "Charred Warrior Trophy",
+        "0_star": "5%",
+        "1_star": "5%",
+        "2_star": "5%"
+      },
+      {
+        "item": "Charred Bone",
+        "0_star": "1-2",
+        "1_star": "2-4",
+        "2_star": "4-8"
+      }
+    ]
+  },
+  {
+    "bioma": "tierras_de_ceniza",
+    "nombre": "Charred Marksman",
+    "tipo": "hostiles",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/f/f9/Charred_Marksman.png",
+      "1": "https://static.wikia.nocookie.net/valheim/images/8/82/Charred_Marksman_1_star.png",
+      "2": "https://static.wikia.nocookie.net/valheim/images/d/d1/Charred_Marksman_2_star.png"
+    },
+    "descripcion": "Ancient archer still wandering despite being charred.",
+    "drops": [
+      {
+        "item": "Charred Marksman Trophy",
+        "0_star": "5%",
+        "1_star": "5%",
+        "2_star": "5%"
+      },
+      {
+        "item": "Charred Bone",
+        "0_star": "1-2",
+        "1_star": "2-4",
+        "2_star": "4-8"
+      }
+    ]
+  },
+  {
+    "bioma": "tierras_de_ceniza",
+    "nombre": "Charred Twitcher",
+    "tipo": "hostiles",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/4/4e/Charred_Twitcher.png",
+      "1": "https://static.wikia.nocookie.net/valheim/images/2/28/Charred_Twitcher_1_star.png",
+      "2": "https://static.wikia.nocookie.net/valheim/images/8/87/Charred_Twitcher_2_star.png"
+    },
+    "descripcion": "Stalks prey while crouched before throwing stones.",
+    "drops": [
+      {
+        "item": "Charred Bone",
+        "0_star": "1",
+        "1_star": "2",
+        "2_star": "4"
+      }
+    ]
+  },
+  {
+    "bioma": "tierras_de_ceniza",
+    "nombre": "Charred Warlock",
+    "tipo": "hostiles",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/1/14/Charred_Warlock.png",
+      "1": "https://static.wikia.nocookie.net/valheim/images/9/98/Charred_Warlock_1_star.png",
+      "2": "https://static.wikia.nocookie.net/valheim/images/8/86/Charred_Warlock_2_star.png"
+    },
+    "descripcion": "Warlock capable of summoning skeletal minions.",
+    "drops": [
+      {
+        "item": "Charred Warlock Trophy",
+        "0_star": "5%",
+        "1_star": "5%",
+        "2_star": "5%"
+      },
+      {
+        "item": "Charred Bone",
+        "0_star": "1-2",
+        "1_star": "2-4",
+        "2_star": "4-8"
+      }
+    ]
+  },
+  {
+    "bioma": "tierras_de_ceniza",
+    "nombre": "Bonemaw",
+    "tipo": "hostiles",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/7/72/Bonemaw.png"
+    },
+    "descripcion": "Fearsome sea creature that lurks near the biome's shores.",
+    "drops": [
+      {
+        "item": "Bonemaw Trophy",
+        "0_star": "33%",
+        "1_star": "-",
+        "2_star": "-"
+      },
+      {
+        "item": "Bonemaw Meat",
+        "0_star": "6-7",
+        "1_star": "-",
+        "2_star": "-"
+      },
+      {
+        "item": "Bonemaw Fang",
+        "0_star": "8-9",
+        "1_star": "-",
+        "2_star": "-"
+      }
+    ],
+    "has_stars":false
+  },
+  {
+    "bioma": "tierras_de_ceniza",
+    "nombre": "Fallen Valkyrie",
+    "tipo": "hostiles",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/e/e5/Fallen_Valkyrie.png"
+    },
+    "descripcion": "Flies toward you, shoots fire projectiles and performs spinning attacks.",
+    "drops": [
+      {
+        "item": "Fallen Valkyrie Trophy",
+        "0_star": "5%",
+        "1_star": "-",
+        "2_star": "-"
+      },
+      {
+        "item": "Celestial Feather",
+        "0_star": "2-3",
+        "1_star": "-",
+        "2_star": "-"
+      }
+    ],
+    "has_stars":false
+  },
+  {
+    "bioma": "tierras_de_ceniza",
+    "nombre": "Lava Blob",
+    "tipo": "hostiles",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/5/58/Lava_Blob.png"
+    },
+    "descripcion": "Jumps great distances and explodes when reaching its target.",
+    "drops": [
+      {
+        "item": "Prosthetic",
+        "0_star": "1",
+        "1_star": "-",
+        "2_star": "-"
+      },
+      {
+        "item": "Sulfur",
+        "0_star": "1",
+        "1_star": "-",
+        "2_star": "-"
+      }
+    ],
+    "has_stars":false
+  },
+  {
+    "bioma": "tierras_de_ceniza",
+    "nombre": "Volture",
+    "tipo": "hostiles",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/4/4d/Volture.png"
+    },
+    "descripcion": "Birds found protecting their nests.",
+    "drops": [
+      {
+        "item": "Volture Trophy",
+        "0_star": "10%",
+        "1_star": "-",
+        "2_star": "-"
+      },
+      {
+        "item": "Feathers",
+        "0_star": "2",
+        "1_star": "-",
+        "2_star": "-"
+      },
+      {
+        "item": "Volture Egg",
+        "0_star": "50%",
+        "1_star": "-",
+        "2_star": "-"
+      },
+      {
+        "item": "Volture Meat",
+        "0_star": "1",
+        "1_star": "-",
+        "2_star": "-"
+      }
+    ],
+    "has_stars":false
+  },
+  {
+    "bioma": "tierras_de_ceniza",
+    "nombre": "Skugg",
+    "tipo": "hostiles",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/2/29/Skugg.png"
+    },
+    "descripcion": "Bone crossbows that somehow have a life of their own.",
+    "drops": [
+      {
+        "item": "Bone Fragments",
+        "0_star": "3",
+        "1_star": "-",
+        "2_star": "-"
+      },
+      {
+        "item": "Charred Gear",
+        "0_star": "1",
+        "1_star": "-",
+        "2_star": "-"
+      }
+    ],
+    "has_stars":false
+  },
+  {
+    "bioma": "tierras_de_ceniza",
+    "nombre": "Morgen",
+    "tipo": "hostiles",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/9/95/Morgen.png",
+      "1": "https://static.wikia.nocookie.net/valheim/images/9/95/Morgen.png",
+      "2": "https://static.wikia.nocookie.net/valheim/images/9/95/Morgen.png"
+    },
+    "descripcion": "Tumbles around destroying everything in its path.",
+    "drops": [
+      {
+        "item": "Morgen Trophy",
+        "0_star": "5%",
+        "1_star": "5%",
+        "2_star": "5%"
+      },
+      {
+        "item": "Morgen Tendon",
+        "0_star": "1",
+        "1_star": "2",
+        "2_star": "4"
+      },
+      {
+        "item": "Morgen Heart",
+        "0_star": "80%",
+        "1_star": "2",
+        "2_star": "4"
+      }
+    ]
+  },
+  {
+    "bioma": "tierras_de_ceniza",
+    "nombre": "Dvergr",
+    "tipo": "neutral",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/c/c9/Ashlands_Dvergr_0-star.png",
+      "1": "https://static.wikia.nocookie.net/valheim/images/1/19/Ashlands_Dvergr_1-star.png",
+      "2": "https://static.wikia.nocookie.net/valheim/images/4/48/Ashlands_Dvergr_2-star.png"
+    },
+    "descripcion": "Stronger than Mistlands Dvergr with fancy cone hats.",
+    "drops": [
+      {
+        "item": "Dvergr Trophy",
+        "0_star": "5%",
+        "1_star": "5%",
+        "2_star": "5%"
+      },
+      {
+        "item": "Coins",
+        "0_star": "2-14",
+        "1_star": "2-14",
+        "2_star": "2-14"
+      },
+      {
+        "item": "Soft Tissue",
+        "0_star": "1-2",
+        "1_star": "1-2",
+        "2_star": "1-2"
+      },
+      {
+        "item": "Black Marble",
+        "0_star": "1-2",
+        "1_star": "1-2",
+        "2_star": "1-2"
+      }
+    ]
+  },
+  {
+    "bioma": "tierras_de_ceniza",
+    "nombre": "Lord Reto",
+    "tipo": "minijefes",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/b/bb/Lord_Reto.png"
+    },
+    "descripcion": "Skeletal warrior awaiting your challenge.",
+    "drops": [
+      {
+        "item": "Dyrnwyn Hilt Fragment",
+        "0_star": "1",
+        "1_star": "-",
+        "2_star": "-"
+      }
+    ]
+  },
+  {
+    "bioma": "tierras_de_ceniza",
+    "nombre": "Fader",
+    "tipo": "jefes",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/9/98/Fader.png"
+    },
+    "descripcion": "Ancient ruler who succumbed to madness.",
+    "drops": [
+      {
+        "item": "Fader Trophy",
+        "0_star": "1",
+        "1_star": "-",
+        "2_star": "-"
+      },
+      {
+        "item": "Fader Relic",
+        "0_star": "5",
+        "1_star": "-",
+        "2_star": "-"
+      }
+    ]
+  },
+  {
+    "bioma": "norte_profundo",
+    "nombre": "Northern Salmon",
+    "tipo": "peces",
+    "img": {
+      "0": "https://static.wikia.nocookie.net/valheim/images/9/9f/Northern_salmon.png",
+      "1": "",
+      "2": ""
+    },
+    "descripcion": "Special biome fish.",
+    "crafting": [ 
+      { "item": "Fish Meat" },
+      { "item": "Fishing Hat" }
+    ]
+  },
+  {
+  "en": {
+    "tituloPrincipal": "Runic Souls",
+    "tituloCriaturas": "Creatures"
+        }
+  }
+]
