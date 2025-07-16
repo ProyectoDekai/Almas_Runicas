@@ -8,13 +8,7 @@ Este proyecto es una guía interactiva de las criaturas de Valheim, diseñada pa
 * Filtros por tipo de criatura y bioma.
 * Visualización de imágenes de criaturas según la estrella de dificultad.
 * Alternar entre idiomas (español/inglés).
-
-## Tecnologías Utilizadas
-
-* HTML5
-* CSS3
-* JavaScript
-
+* 
 ## Aclaración Importante (Descargo de Responsabilidad)
 
 © 2025 @Proyecto_Dekai. Este es un proyecto fan sin fines de lucro, inspirado en el videojuego Valheim.
